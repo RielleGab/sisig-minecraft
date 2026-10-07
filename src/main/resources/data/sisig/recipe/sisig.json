@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:cooked_porkchop",
+    "minecraft:egg",
+    "minecraft:bowl"
+  ],
+  "result": {
+    "id": "sisig:sisig"
+  }
+}

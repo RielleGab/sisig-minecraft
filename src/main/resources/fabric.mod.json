@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "sisig",
+  "version": "${version}",
+  "name": "Sisig",
+  "description": "Adds a hearty bowl of sisig to Minecraft.",
+  "icon": "assets/sisig/textures/item/sisig.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.example.sisig.SisigMod"]
+  },
+  "depends": {
+    "fabricloader": ">=0.19.5",
+    "minecraft": "~26.3",
+    "java": ">=25",
+    "fabric-api": "*"
+  }
+}
