@@ -1,7 +1,6 @@
 # Sisig
 
-A small Fabric mod for Minecraft Java 26.3. It adds Sisig as its own edible item, using the original 48×48 sprite in `src/main/resources/assets/sisig/textures/item/sisig.png`.
-
+A small Fabric mod for Minecraft Java 26.3. It adds Sisig as its own edible item.
 ## Gameplay
 
 - Craft 1 Sisig with 1 cooked porkchop, 1 egg, and 1 bowl. The recipe is shapeless and unlocks after you obtain cooked porkchop.
